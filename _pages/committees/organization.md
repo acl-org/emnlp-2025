@@ -36,7 +36,7 @@ sidebar:
 %}
 {% include committee-member.html
    name="Carolyn Rose"
-   institution="Language Technologies Institute and Human-Computer Interaction Institute, School of Computer Science, Carnegie Mellon University"
+   institution="Carnegie Mellon University (CMU)"
    email="cp3a@andrew.cmu.edu"
    role="Program Chairs"
    site="https://www.lti.cs.cmu.edu"
