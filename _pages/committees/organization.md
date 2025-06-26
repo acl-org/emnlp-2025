@@ -20,7 +20,7 @@ sidebar:
 <h2>Program Chairs</h2>
 {% include committee-member.html
    name="Christos Christodoulopoulos"
-   institution="Amazon / Information Commissioner's Office"
+   institution="Information Commissioner's Office (ex-Amazon)"
    email="christos.c2009@gmail.com"
    role="Program Chairs"
    site="https://christos-c.com"
