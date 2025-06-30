@@ -7,7 +7,8 @@ sidebar:
 toc: true
 toc_sticky: true
 toc_icon: "cog"
-excerpt: "Call for Main Conference Papers (EMNLP 2025)"
+excerpt: "EMNLP 2025 主会论文征稿说明（苏州，2025 年 11 月 5–9 日）：投稿要求、重要日期、评审流程。"
+
 ---
 
 ## Overview
