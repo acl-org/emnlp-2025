@@ -1,5 +1,5 @@
 ---
-title: Call for Main Conference Papers
+title: Call for Main Conference Papers (EMNLP 2025)
 layout: single
 permalink: /calls/main_conference_papers/
 sidebar: 
