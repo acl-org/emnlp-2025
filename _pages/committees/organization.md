@@ -220,6 +220,15 @@ sidebar:
    picture="/assets/images/committee/Mirella-Lapata.jpg"
 %}
 
+{% include committee-member.html
+   name="Owen Rambow"
+   institution="Stony Brook University"
+   email="owen.rambow@stonybrook.edu"
+   role="Best Publication Chairs"
+   site="https://owenrambow.com/"
+   picture="/assets/images/committee/owen-rambow.jpg"
+%}
+
 <h2>Handbook Chairs</h2>
 {% include committee-member.html
    name="Lucia Siciliani"
