@@ -249,8 +249,8 @@ sidebar:
 %}
 {% include committee-member.html
    name="Aaron Mueller"
-   institution="Northeastern University; Technion"
-   email="aa.mueller@northeastern.edu"
+   institution="Boston University"
+   email="amueller@bu.edu"
    role="Publicity Chairs"
    site="https://aaronmueller.github.io"
    picture="/assets/images/committee/Aaron-Mueller.jpg"
