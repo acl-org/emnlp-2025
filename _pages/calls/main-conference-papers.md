@@ -1,7 +1,7 @@
 ---
-title: Call for Main Conference Papers (EMNLP 2025)
+title: Call for Main Conference Papers
 layout: single
-permalink: /calls/main_conference_papers/
+permalink: /calls/main-conference-papers/
 sidebar: 
     nav: "calls"
 toc: true

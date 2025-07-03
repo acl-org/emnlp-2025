@@ -1,7 +1,7 @@
 ---
 title: Call for Industry Track Papers
 layout: single
-permalink: /calls/industry_track/
+permalink: /calls/industry-track/
 sidebar: 
     nav: "calls"
 toc: true
