@@ -1,7 +1,7 @@
 ---
 title: Call for Main Conference Papers
 layout: single
-permalink: /calls/main-conference-papers/
+permalink: /calls/main_conference-papers/
 sidebar: 
     nav: "calls"
 toc: true

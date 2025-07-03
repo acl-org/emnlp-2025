@@ -33,7 +33,7 @@ calls:
       # - title: "Volunteers"
       #   url: /volunteers 
       - title: "Main Conference Papers"
-        url: /calls/main_conference_papers/
+        url: /calls/main-conference-papers/
       - title: "System Demonstration"
         url: /calls/demos/
       - title: "Industry Track"
