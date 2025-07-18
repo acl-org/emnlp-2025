@@ -20,7 +20,7 @@ ARR submission deadline (long & short papers) | May 19, 2025
 Reviewer registration deadline for ALL authors | May 21, 2025
 Review submission deadline ([Guidelines](https://aclrollingreview.org/reviewerguidelines)) | June 18, 2025
 Author response and author-reviewer discussion | June 26 - July 2, 2025
-Commitment deadline | August 1, 2025
+Commitment deadline | July 31, 2025
 Notification of acceptance (long & short papers) | August 20, 2025
 Camera-ready papers due (long & short) | September 19, 2025
 Main Conference (dates for Workshops/Tutorials TBD) | November 5-9, 2025
