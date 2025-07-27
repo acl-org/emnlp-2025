@@ -18,9 +18,9 @@ EMNLP 2025 invites the submission of long and short papers featuring substantial
 
 ARR submission deadline (long & short papers) | May 19, 2025
 Reviewer registration deadline for ALL authors | May 21, 2025
-Review submission deadline ([guidelines](https://aclrollingreview.org/reviewerguidelines)) | June 18, 2025
+Review submission deadline ([Guidelines](https://aclrollingreview.org/reviewerguidelines)) | June 18, 2025
 Author response and author-reviewer discussion | June 26 - July 2, 2025
-Commitment deadline ([link](https://openreview.net/group?id=EMNLP/2025/Conference)) | August 1, 2025
+Commitment deadline | August 1, 2025
 Notification of acceptance (long & short papers) | August 20, 2025
 Camera-ready papers due (long & short) | September 19, 2025
 Main Conference (dates for Workshops/Tutorials TBD) | November 5-9, 2025
@@ -33,10 +33,10 @@ At the time of submission to ARR, authors will be asked to select a preferred ve
 
 ## Paper Submission Information
 
-**Dual submissions are not allowed!** Please check the [ARR Multiple Submission Policy](https://aclrollingreview.org/cfp#:~:text=Multiple%20Submission%20Policy) for detail.
-
 **Note that we are following a new ARR cycle schedule (5 cycles/year)**! Papers may be submitted to the [ARR 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/May) May cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2025 May cycle or an earlier ARR cycle) may be committed to EMNLP via the [commitment link](https://openreview.net/group?id=EMNLP).
 
+**Dual submissions are not allowed
+**
 ## Mandatory Reviewing Workload
 
 ACL adopted a policy similar to CVPR 2025 policy. All authors are expected to sign up to review, with assignments subsequently based on qualifications. The highly irresponsible reviewers may become ineligible from committing their paper(s) to EMNLP or resubmitting in the next cycle. The submitting authors should (a) make sure that all other authors are aware of this policy, and (b) check that everybody on their team(s) submits their (meta-)reviews on time and in accordance with the guidelines. After submission, all authors must complete the author registration form by May 21 2025 EoD AoE. If they get assignments, reviews must be completed by June 18, and meta-reviews - by July 15. In case of any emergencies, the chairs should be warned via the emergency declaration form. More details on the policy here: [https://aclrollingreview.org/incentives2025](https://aclrollingreview.org/incentives2025)
@@ -105,8 +105,6 @@ EMNLP 2025 will use [ACL Rolling Review](https://aclrollingreview.org/cfp) (ARR)
 
 - Authors submit articles to ARR, where submissions receive reviews and meta-reviews from ARR reviewers and action editors;
 - Authors commit their reviewed articles to a publication venue (e.g., EMNLP 2025), where Senior Area Chairs and Program Chairs make acceptance decisions from the ARR reviews and meta-reviews.
-
-**Authorship during commitment.** During the commitment phase, it is not allowed to modify the author list (i.e., addition/deletion of authors is not allowed). However, modification of author order is possible.
 
 EMNLP 2025 has chosen this approach in coordination with *CL 2025 conferences, which are adopting the same procedure and a coordinated submission plan to allow maximum flexibility during their submission periods for the authors. At each cycle, after a paper has been fully reviewed, authors have the option to commit their paper to a conference, or revise and resubmit for another round of reviews.
 

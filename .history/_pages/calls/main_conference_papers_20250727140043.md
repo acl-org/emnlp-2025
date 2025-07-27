@@ -18,9 +18,9 @@ EMNLP 2025 invites the submission of long and short papers featuring substantial
 
 ARR submission deadline (long & short papers) | May 19, 2025
 Reviewer registration deadline for ALL authors | May 21, 2025
-Review submission deadline ([guidelines](https://aclrollingreview.org/reviewerguidelines)) | June 18, 2025
+Review submission deadline ([Guidelines](https://aclrollingreview.org/reviewerguidelines)) | June 18, 2025
 Author response and author-reviewer discussion | June 26 - July 2, 2025
-Commitment deadline ([link](https://openreview.net/group?id=EMNLP/2025/Conference)) | August 1, 2025
+Commitment deadline | August 1, 2025
 Notification of acceptance (long & short papers) | August 20, 2025
 Camera-ready papers due (long & short) | September 19, 2025
 Main Conference (dates for Workshops/Tutorials TBD) | November 5-9, 2025
@@ -32,7 +32,6 @@ Main Conference (dates for Workshops/Tutorials TBD) | November 5-9, 2025
 At the time of submission to ARR, authors will be asked to select a preferred venue (e.g., EMNLP 2025). This is used only to calculate acceptance rates. Authors who selected EMNLP 2025 as a preferred venue when submitting to ARR may choose not to commit to EMNLP 2025 after receiving their reviews, and authors who selected a preferred venue other than EMNLP 2025 when submitting to ARR are still welcome to commit to EMNLP 2025.
 
 ## Paper Submission Information
-
 **Dual submissions are not allowed!** Please check the [ARR Multiple Submission Policy](https://aclrollingreview.org/cfp#:~:text=Multiple%20Submission%20Policy) for detail.
 
 **Note that we are following a new ARR cycle schedule (5 cycles/year)**! Papers may be submitted to the [ARR 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/May) May cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2025 May cycle or an earlier ARR cycle) may be committed to EMNLP via the [commitment link](https://openreview.net/group?id=EMNLP).

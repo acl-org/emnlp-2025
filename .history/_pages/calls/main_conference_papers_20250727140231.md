@@ -18,7 +18,7 @@ EMNLP 2025 invites the submission of long and short papers featuring substantial
 
 ARR submission deadline (long & short papers) | May 19, 2025
 Reviewer registration deadline for ALL authors | May 21, 2025
-Review submission deadline ([guidelines](https://aclrollingreview.org/reviewerguidelines)) | June 18, 2025
+Review submission deadline ([Guidelines](https://aclrollingreview.org/reviewerguidelines)) | June 18, 2025
 Author response and author-reviewer discussion | June 26 - July 2, 2025
 Commitment deadline ([link](https://openreview.net/group?id=EMNLP/2025/Conference)) | August 1, 2025
 Notification of acceptance (long & short papers) | August 20, 2025
