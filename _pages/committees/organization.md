@@ -51,6 +51,24 @@ sidebar:
    picture="/assets/images/committee/Violet-Peng.jpg"
 %}
 
+<h2>Local Organizing Chairs</h2>
+{% include committee-member.html
+   name="Wei Ji"
+   institution="Nanjing University, Suzhou Campus"
+   email="weiji@nju.edu.cn"
+   role="Local Organizing Chairs"
+   site=""
+   picture="/assets/images/committee/WeiJi.jpg"
+%}
+{% include committee-member.html
+   name="Jiaheng Liu"
+   institution="Nanjing University, Suzhou Campus"
+   email="liujiaheng@nju.edu.cn"
+   role="Local Organizing Chairs"
+   site=""
+   picture="/assets/images/committee/JiahengLiu.jpg"
+%}
+
 <h2>Industry Track Chairs</h2>
 {% include committee-member.html
    name="Saloni Potdar"
