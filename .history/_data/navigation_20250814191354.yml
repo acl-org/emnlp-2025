@@ -1,0 +1,66 @@
+# main links
+#in masthead.html
+main:
+  - title: "Calls"
+    url: /calls/main_conference_papers/
+
+  - title: "Committees"
+    url: /organization
+
+  - title: "Sponsors"
+    url: /sponsors/
+
+  - title: "Participants Info"
+    url: /venue/
+
+  - title: "Blog"
+    url: /blog/
+
+  # - title: "Proceedings"
+  #   url: "https://aclanthology.org/events/emnlp-2022/"
+
+  # - title: "MiniConf"
+  #   url: https://virtual2023.emnlp.org/
+    
+  # - title: "FAQ"
+  #   url: /faq/
+ 
+  # - title: "Ethics"
+  #   url: /ethics/faq/
+
+calls:
+  - title: "Call for"
+    children:
+      #- title: "Diversity & Inclusion Subsidies"
+      #  url: /calls/subsidies/
+      # - title: "Volunteers"
+      #   url: /volunteers 
+      - title: "Main Conference Papers"
+        url: /calls/main_conference_papers/
+      - title: "System Demonstration"
+        url: /calls/demos/
+      - title: "Industry Track"
+        url: /calls/industry_track/
+      - title: "Workshops"
+        url: /calls/workshops/
+
+
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing Committee"
+        url: /organization/
+      #- title: "Senior Program Committee"
+      #  url: /committees/program/
+
+
+
+# participants:
+#   - title: "Participants Information"
+#     children:
+#       - title: "Invitation Letters"
+#         url: /participants/invitation_letters
+#       - title: "Visa Requirements"
+#         url: /participants/visa_requirements
+#       - title: "Transportation"
+#         url: /participants/transportation

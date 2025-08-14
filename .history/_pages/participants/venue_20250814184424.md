@@ -1,0 +1,24 @@
+---
+title: Venue
+layout: single
+excerpt: "EMNLP 2025 Venue"
+permalink: /venue/
+sidebar:
+  nav: "venue"
+toc: True
+toc_sticky: True
+---
+
+## Conference Venue
+
+Suzhou International Expo Centre (SuzhouExpo)
+688 Suzhou Avenue East, Wuzhong District, Suzhou, Jiangsu Province, China
+Phone: +86 512 6280 5150
+[https://en.suzhouexpo.com/zhanguansheshiEn-335.html](https://en.suzhouexpo.com/zhanguansheshiEn-335.html)
+
+Located in the core area of comprehensive business Centre (CBD) in SIP and bordering Jinji Lake, Suzhou International Expo Centre (SuzhouExpo) boasts convenient transport system and high-standard facilities. As a large-scale complex integrating exhibitions, conferences, catering and hotel facilities, it is capable of hosting large-scale comprehensive exhibitions with different sizes and forms. In addition to nine exhibition halls with 78,000-square-meter indoor exhibition area, there are 60 conference rooms measuring 23,000 square meters, including an 8,000-square-meter grand ballroom which is one of the largest column-free ballroom in Asia. SuzhouExpo leads in terms of scale, facility and service in China.
+
+## Accommodations
+
+Conference Host Hotels
+To be announced soon
