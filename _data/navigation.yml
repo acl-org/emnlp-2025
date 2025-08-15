@@ -43,7 +43,8 @@ calls:
         url: /calls/industry_track/
       - title: "Workshops"
         url: /calls/workshops/
-
+      - title: "Volunteers"
+        url: /calls/volunteers/
 
 committees:
   - title: Committees
