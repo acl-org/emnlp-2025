@@ -18,6 +18,7 @@ EMNLP 2025 will be held in Suzhou, China from **November 5th** to **November 9th
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Aug. 16, 2025 | [Call for Volunteers](https://2025.emnlp.org/calls/volunteers/) is out.
 | Aug. 14, 2025 | [New Desk Rejection Practice](https://2025.emnlp.org/desk-rejection) is out.
 | July 26, 2025 | [Paper Commitment](https://openreview.net/group?id=EMNLP/2025/Conference) is open!
 | June 28, 2025 | [First call for workshop papers](https://2025.emnlp.org/calls/workshops/) is updated!
