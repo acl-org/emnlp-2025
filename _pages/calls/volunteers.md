@@ -34,9 +34,9 @@ Candidates will be assessed based on their application package (details below). 
 Once more, volunteering grants you complimentary registration solely for EMNLP 2025. If you require further financial assistance for lodging, airfare, or daily expenses, it's advisable to apply for Diversity and Inclusion Subsidies. You have the liberty to seek both a Volunteer subsidy and a D&I subsidy simultaneously, as there are no restrictions against receiving both. To review the criteria for D&I Subsidies, please refer to the Call for D&I Post, which includes selection criteria. 
 
 ## Important Dates										
-- Application Opens: 16/08/2026
-- Application Deadline: 20/09/2026 (23:59 Anywhere on Earth)
-- Acceptance Notifications: 27/09/2026 (23:59 Anywhere on Earth)
+- Application Opens: 16/08/2025
+- Application Deadline: 20/09/2025 (23:59 Anywhere on Earth)
+- Acceptance Notifications: 27/09/2025 (23:59 Anywhere on Earth)
  
 ## Contact Details
 
