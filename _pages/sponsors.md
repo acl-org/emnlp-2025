@@ -71,10 +71,6 @@ silver:
     image_path: /assets/images/logos/
     alt: HPLT Project
     title: HPLT Project
-  - url: https://research.adobe.com/
-    image_path: /assets/images/logos/adobe-logo.png
-    alt: Adobe
-    title: Adobe
 
 bronze:
   - url: https://translated.com/welcome
