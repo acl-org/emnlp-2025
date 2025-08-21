@@ -39,6 +39,14 @@ platinum:
     image_path: /assets/images/logos/bytedance-logo.png
     alt: Byte Dance
     title: Byte Dance
+  - url: https://www.antgroup.com/en
+    image_path: /assets/images/logos/Ant-Group-logo.png
+    alt: Ant Group
+    title: Ant Group
+  - url: https://www.meituan.com/en-US/about-us
+    image_path: /assets/images/logos/meituan-logo.png
+    alt: Meituan
+    title: Meituan
 
 gold:
   - url: https://www.amazon.science/
@@ -63,6 +71,10 @@ silver:
     image_path: /assets/images/logos/
     alt: HPLT Project
     title: HPLT Project
+  - url: https://research.adobe.com/
+    image_path: /assets/images/logos/adobe-logo.png
+    alt: Adobe
+    title: Adobe
 
 bronze:
   - url: https://translated.com/welcome
@@ -73,8 +85,8 @@ bronze:
     image_path: /assets/images/logos/
     alt: Abaka AI
     title: Abaka AI
-  - url: 
-    image_path: /assets/images/logos/
+  - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
+    image_path: /assets/images/logos/jpmorgan-logo.png
     alt: JPMorganChase
     title: JPMorganChase
 
