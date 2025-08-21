@@ -17,8 +17,8 @@ diamond:
     image_path: /assets/images/logos/tencent-logo.png
     alt: Tencent
     title: Tencent
-  - url: https://miromind.com/
-    image_path: /assets/images/logos/Miromind-logo.png
+  - url: https://miromind.ai/
+    image_path: /assets/images/logos/miromind-ai-logo.png
     alt: Miromind
     title: Miromind
 
