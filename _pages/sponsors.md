@@ -32,7 +32,7 @@ platinum:
     alt: Baidu
     title: Baidu
   - url: 
-    image_path: /assets/images/logos/
+    image_path: /assets/images/logos/airbnb-logo.png
     alt: Airbnb
     title: Airbnb
   - url: https://www.bytedance.com/en/
