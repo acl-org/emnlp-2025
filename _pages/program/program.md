@@ -29,7 +29,7 @@ toc_icon: "cog"
 
 *Main Conference Day 3 Schedule to be finalized & updated* 
 
-# Saturday, November 8, 2025
+### Saturday, November 8, 2025
 - **08:00 – 17:00**: Registration  
 - **08:00 – 12:30**: Tutorials 1–4  
 - **14:00 – 17:30**: Tutorials 5–7  
