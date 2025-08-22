@@ -10,6 +10,37 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+### Tuesday, November 4, 2025
+- **14:00 – 20:00**: Registration  
+- **18:00 – 20:00**: Welcome Reception  
+
+### Wednesday, November 5, 2025
+- **07:30 – 14:30**: Registration  
+- Main Conference Day 1 Schedule to be finalized & updated  
+
+### Thursday, November 6, 2025
+- **08:00 – 17:00**: Registration
+
+*Main Conference Day 2 Schedule to be finalized & updated*
+- **19:00 – 22:00**: Social Event  
+
+### Friday, November 7, 2025
+- **08:00 – 17:00**: Registration  
+
+*Main Conference Day 3 Schedule to be finalized & updated* 
+
+# Saturday, November 8, 2025
+- **08:00 – 17:00**: Registration  
+- **08:00 – 12:30**: Tutorials 1–4  
+- **14:00 – 17:30**: Tutorials 5–7  
+
+*Please check the Workshop Schedule*
+
+### Sunday, November 9, 2025
+- **08:00 – 17:00**: Registration  
+
+*Please check the Workshop Schedule*
+
 ## Workshops
 *Times and location are to be determined*
 
