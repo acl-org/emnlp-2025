@@ -41,26 +41,6 @@ toc_icon: "cog"
 
 *Please check the Workshop Schedule*
 
-## Tutorials
-*Times and locations are to be determined*
-
-### Saturday, November 8, 2025
-
-T1: Efficient Inference for Large Language Models – Algorithm, Model, and System
-
-T2: Advancing Language Models through Instruction Tuning: Recent Progress and Challenges
-
-T3: Data and Model Centric Approaches for Expansion of Large Language Models to New 
-languages
-
-T4: NLP+Code: Code Intelligence in Language Models
-
-T5: Spoken Conversational Agents with Large Language Models
-
-T6: Neuro-Symbolic Natural Language Processing
-
-T7: Continual Learning of Large Language Models
-
 ## Keynote Speakers
 
 - Hannaneh Hajishirzi
