@@ -34,12 +34,12 @@ toc_icon: "cog"
 - **08:00 – 12:30**: Tutorials 1–4  
 - **14:00 – 17:30**: Tutorials 5–7  
 
-*Please check the Workshop Schedule*
+*Please check the [Workshop Schedule](https://2025.emnlp.org/program/workshops/)*
 
 ### Sunday, November 9, 2025
 - **08:00 – 17:00**: Registration  
 
-*Please check the Workshop Schedule*
+*Please check the [Workshop Schedule](https://2025.emnlp.org/program/workshops/)*
 
 ## Keynote Speakers
 
