@@ -8,7 +8,7 @@ sidebar:
 
 Join us as a student volunteer at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), taking place November 5–9 in Suzhou, China. We are seeking dedicated students, both for in-person and online roles, to contribute to the success of this event.
 
-What You Gain
+### What You Gain
 Selected volunteers will receive complimentary registration to the main conference, workshops, tutorials, and social events. Shifts are designed to optimize your access to conference events.
 
 ## Roles and Responsibilities

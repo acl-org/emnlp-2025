@@ -17,8 +17,8 @@ diamond:
     image_path: /assets/images/logos/tencent-logo.png
     alt: Tencent
     title: Tencent
-  - url: https://miromind.com/
-    image_path: /assets/images/logos/Miromind-logo.png
+  - url: https://miromind.ai/
+    image_path: /assets/images/logos/miromind-ai-logo.png
     alt: Miromind
     title: Miromind
 
@@ -32,13 +32,21 @@ platinum:
     alt: Baidu
     title: Baidu
   - url: 
-    image_path: /assets/images/logos/
+    image_path: /assets/images/logos/airbnb-logo.png
     alt: Airbnb
     title: Airbnb
   - url: https://www.bytedance.com/en/
     image_path: /assets/images/logos/bytedance-logo.png
     alt: Byte Dance
     title: Byte Dance
+  - url: https://www.antgroup.com/en
+    image_path: /assets/images/logos/Ant-Group-logo.png
+    alt: Ant Group
+    title: Ant Group
+  - url: https://www.meituan.com/en-US/about-us
+    image_path: /assets/images/logos/meituan-logo.png
+    alt: Meituan
+    title: Meituan
 
 gold:
   - url: https://www.amazon.science/
@@ -73,8 +81,8 @@ bronze:
     image_path: /assets/images/logos/
     alt: Abaka AI
     title: Abaka AI
-  - url: 
-    image_path: /assets/images/logos/
+  - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
+    image_path: /assets/images/logos/jpmorgan-logo.png
     alt: JPMorganChase
     title: JPMorganChase
 
