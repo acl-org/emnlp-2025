@@ -58,6 +58,9 @@
 <loc>http://0.0.0.0:4000/calls/volunteers/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/program/workshops/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/calls/workshops/</loc>
 </url>
 <url>
