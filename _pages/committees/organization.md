@@ -179,7 +179,7 @@ sidebar:
 %}
 {% include committee-member.html
    name="Anil Ramakrishna"
-   institution="Amazon"
+   institution="Meta (ex-Amazon)"
    email="anil.k.ramakrishna@gmail.com"
    role="Ethics Chairs"
    site="https://anilkramakrishna.github.io/"
