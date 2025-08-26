@@ -31,6 +31,9 @@
 <loc>http://0.0.0.0:4000/calls/industry_track/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/program/keynotes/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/calls/main_conference_papers/</loc>
 </url>
 <url>
@@ -46,7 +49,7 @@
 <loc>http://0.0.0.0:4000/tags/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/venue/travel/</loc>
+<loc>http://0.0.0.0:4000/travel/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/program/tutorials/</loc>
