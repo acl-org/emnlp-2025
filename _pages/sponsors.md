@@ -56,7 +56,7 @@ gold:
 
 silver:
   - url: https://research.adobe.com/
-    image_path: /assets/images/logos/adobe-logo.jpg
+    image_path: /assets/images/logos/adobe-logo.png
     alt: Adobe
     title: Adobe
   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/
