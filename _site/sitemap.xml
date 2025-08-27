@@ -64,6 +64,9 @@
 <loc>http://0.0.0.0:4000/venue/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/calls/virtual_subsidies/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/visa/</loc>
 </url>
 <url>

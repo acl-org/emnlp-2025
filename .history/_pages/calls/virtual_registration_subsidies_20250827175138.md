@@ -31,7 +31,7 @@ Applicants should fill out [the Virtual Registration Subsidies Application form]
 All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
 - Application Deadline: **September 24, 2025, 23:59 (AoE)**
-- Notification Deadline: **October 01, 2025, 23:59 (AoE)**
+- Notification Deadline: October 01, 2025, 23:59 (AoE)
 
 ## Notification of acceptance
 

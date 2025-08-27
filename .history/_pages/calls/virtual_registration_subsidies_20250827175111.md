@@ -24,14 +24,14 @@ Given prioritization for those in greatest financial need, except in the case of
 
 ## Instructions
 
-Applicants should fill out [the Virtual Registration Subsidies Application form](https://forms.cloud.microsoft/r/zBULqgpVwz) before **September 24, 2025, 23:59 (AoE)**. Please read the information carefully to help you fill in the form.
+Applicants should fill out [the Virtual Registration Subsidies Application form](https://forms.cloud.microsoft/r/zBULqgpVwz) before September 24, 2025, 23:59 (AoE). Please read the information carefully to help you fill in the form.
 
 ## Application and Notification Deadlines
 
 All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
-- Application Deadline: **September 24, 2025, 23:59 (AoE)**
-- Notification Deadline: **October 01, 2025, 23:59 (AoE)**
+- Application Deadline: September 24, 2025, 23:59 (AoE)
+- Notification Deadline: October 01, 2025, 23:59 (AoE)
 
 ## Notification of acceptance
 

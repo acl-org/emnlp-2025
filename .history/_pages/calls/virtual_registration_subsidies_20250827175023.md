@@ -18,20 +18,20 @@ Discounted/sliding scale virtual registration is intended to make ACL events acc
 
 Given prioritization for those in greatest financial need, except in the case of special circumstances this additional funding is not intended for employed individuals and funded students from USA, Canada, Europe, Australia, New Zealand, and higher-income countries in Asia and the Middle East. Standard student registration rates (including from these regions) are already substantially discounted.
 
-**Note 1:** The virtual registration subsidies are only available for participants who are **NOT registering any paper**. If you are registering a paper and need financial assistance, please apply for [the D&I subsidies](https://2025.emnlp.org/calls/subsidies/) and/or [volunteering opportunities](https://2025.emnlp.org/calls/volunteers/) instead.
+**Note 1:** The virtual registration subsidies are only available for participants who are **NOT registering any paper**. If you are registering a paper and need financial assistance, please apply for the [D&I subsidies](https://2025.emnlp.org/calls/subsidies/) and/or volunteering opportunities instead.
 
-**Note 2:** If you are applying for virtual registration subsidies, you **SHOULD NOT register for the conference until you hear from us about your subsidy application**.
+**Note 2:** If you are applying for virtual registration subsidies, you SHOULD NOT register for the conference until you hear from us about your subsidy application.
 
 ## Instructions
 
-Applicants should fill out [the Virtual Registration Subsidies Application form](https://forms.cloud.microsoft/r/zBULqgpVwz) before **September 24, 2025, 23:59 (AoE)**. Please read the information carefully to help you fill in the form.
+Applicants should fill out the Virtual Registration Subsidies Application form before September 24, 2025, 23:59 (AoE). Please read the information carefully to help you fill in the form.
 
 ## Application and Notification Deadlines
 
 All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
-- Application Deadline: **September 24, 2025, 23:59 (AoE)**
-- Notification Deadline: **October 01, 2025, 23:59 (AoE)**
+- Application Deadline: September 24, 2025, 23:59 (AoE)
+- Notification Deadline: October 01, 2025, 23:59 (AoE)
 
 ## Notification of acceptance
 
