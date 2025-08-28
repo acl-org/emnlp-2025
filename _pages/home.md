@@ -10,7 +10,7 @@ excerpt: "November 5 &ndash;9<br>Suzhou, China"
 ---
 
 ## Welcome!
-The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025) will be held in **Suzhou, China** from **November 5th** to **November 9th**, **2025**.
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025) will be held in **Suzhou, China** from **November 4th** to **November 9th**, **2025**.
 
 *Given the expected popularity of EMNLP 2025, we may need to limit registration.*
 ***Please do not make nonrefundable hotel or air reservations before your registration is confirmed.***
@@ -43,6 +43,6 @@ Author response and author-reviewer discussion | June 26 - July 2, 2025
 Commitment deadline | August 1, 2025
 Notification of acceptance (long & short papers) | August 20, 2025
 Camera-ready papers due (long & short) | September 19, 2025
-Main Conference (dates for Workshops/Tutorials TBD) | November 5-9, 2025
+Main Conference (dates for Workshops/Tutorials TBD) | November 4-9, 2025
 
 **Note: All deadlines are 11:59PM [UTC-12:00](https://www.timeanddate.com/time/zone/timezone/utc-12) ("anywhere on Earth").**
