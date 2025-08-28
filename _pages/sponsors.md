@@ -78,7 +78,7 @@ bronze:
     alt: Translated
     title: Translated
   - url: 
-    image_path: /assets/images/logos/
+    image_path: /assets/images/logos/abaka-logo.png
     alt: Abaka AI
     title: Abaka AI
   - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
