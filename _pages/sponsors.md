@@ -52,7 +52,11 @@ gold:
   - url: https://www.amazon.science/
     image_path: /assets/images/logos/amazon-logo.png
     alt: Amazon Science
-    title: Baidu
+    title: Amazon Science
+  - url: https://www.minimax.io/
+    image_path: /assets/images/logos/minimax-logo.png
+    alt: MiniMax
+    title: MiniMax
 
 silver:
   - url: https://research.adobe.com/
