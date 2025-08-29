@@ -51,6 +51,32 @@ sidebar:
    picture="/assets/images/committee/Violet-Peng.jpg"
 %}
 
+<h2>Guest Program Chairs</h2>
+{% include committee-member.html
+   name="Sarvnaz Karimi"
+   institution="CSIRO"
+   email="sarvnaz.karimi@csiro.au"
+   role="Guest Program Chairs"
+   site="https://people.csiro.au/K/S/Sarvnaz-Karimi"
+   picture="/assets/images/committee/sarvnaz-karimi.jpg"
+%}
+{% include committee-member.html
+   name="Margot Mieskes"
+   institution="University of Applied Sciences, Darmstadt"
+   email="margot.mieskes@h-da.de"
+   role="Guest Program Chairs"
+   site="https://sis.h-da.de/personen/professor-innen-auf-einen-blick/prof-dr-margot-mieskes"
+   picture="/assets/images/committee/margot-mieskes.jpg"
+%}
+{% include committee-member.html
+   name="Michael White"
+   institution="Ohio State University"
+   email="mwhite@ling.ohio-state.edu"
+   role="Guest Program Chairs"
+   site="https://u.osu.edu/white.1240"
+   picture="/assets/images/committee/michael-white.jpg"
+%}
+
 <h2>Local Organizing Chairs</h2>
 {% include committee-member.html
    name="Wei Ji"
