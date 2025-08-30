@@ -51,8 +51,6 @@ W15: The 5th Workshop on Multi-lingual Representation Learning (MRL; associated 
 
 W16: Tailoring AI: exPloring Active and passive Llm perSonalization (PALS)
 
-W17: The 2nd Annual Meeting of the Special Interest Group on Turkic Languages
-
 W18: UncertaiNLP - Second Workshop on Uncertainty-Aware NLP
 
 W19: The 5th Wordplay: When Language Meets Games Workshop
