@@ -52,7 +52,11 @@ gold:
   - url: https://www.amazon.science/
     image_path: /assets/images/logos/amazon-logo.png
     alt: Amazon Science
-    title: Baidu
+    title: Amazon Science
+  - url: https://www.minimax.io/
+    image_path: /assets/images/logos/minimax-logo.png
+    alt: MiniMax
+    title: MiniMax
 
 silver:
   - url: https://research.adobe.com/
@@ -68,7 +72,7 @@ silver:
     alt: Appen
     title: Appen
   - url: 
-    image_path: /assets/images/logos/
+    image_path: /assets/images/logos/hlt-logo.png
     alt: HPLT Project
     title: HPLT Project
 
@@ -78,7 +82,7 @@ bronze:
     alt: Translated
     title: Translated
   - url: 
-    image_path: /assets/images/logos/
+    image_path: /assets/images/logos/abaka-logo.png
     alt: Abaka AI
     title: Abaka AI
   - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
