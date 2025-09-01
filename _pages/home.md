@@ -1,5 +1,5 @@
 ---
-title: "The 2025 Conference on Empirical Methods in Natural Language Processing"
+title: <img src="/assets/images/logos/30thlogo.svg" alt="30thLogo"> "The 2025 Conference on Empirical Methods in Natural Language Processing"
 layout: splash
 permalink: /
 header:
