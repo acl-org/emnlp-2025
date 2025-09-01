@@ -81,7 +81,7 @@ When crossing roads, please follow traffic signals, as while vehicles may yield 
 
 ### Shopping, Dining, and Entertainment
 
-#### Shopping
+### Shopping
 - Guanqian Stree（观前街）t: Suzhou's most famous commercial pedestrian street, featuring both time-honored brands and modern stores
 - Eslite Spectrum（诚品书店）: Not just a bookstore but a cultural lifestyle space, located in the Industrial Park
 - Ligongdi（李公堤）: Commercial street along Jinji Lake with boutique shops, galleries, and cafes
