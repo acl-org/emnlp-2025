@@ -13,8 +13,11 @@ All travel mileage and duration listed below are to the [Suzhou International Ex
 
 ### Airports
 
-- [Hongqiao Airport (SHA)](https://www.shairport.com/ensh/hqjc/index.html) is located 88 km (1 hour)
-- [Pudong Airport (PVG)](https://www.shanghaiairport.com/index_en.html) is located 133 km (2 hour)
+#### From Airport/Train Station to Venue
+- [Shanghai Pudong International Airport (PVG)](https://www.shanghaiairport.com/index_en.html): Approximately 1.5 hours by car, can take airport bus or high-speed train to Suzhou
+- [Shanghai Hongqiao International Airport (SHA)](https://www.shairport.com/ensh/hqjc/index.html): Approximately 1 hour by car, has direct high-speed train to Suzhou Station
+- Suzhou Railway Station: About 20 minutes by metro to the venue
+- Suzhou Industrial Park Station: High-speed rail station, only 10 minutes from the venue
 
 ### Train
 
