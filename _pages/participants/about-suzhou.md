@@ -63,11 +63,11 @@ When crossing roads, please follow traffic signals, as while vehicles may yield 
 ## Things to Do in Suzhou
 
 ### Gardens and Parks
-- Humble Administrator's Garden (Zhuozheng Yuan): One of China's four most famous classical gardens, the largest and most renowned garden in Suzhou. https://web.lotsmall.cn/detail/ticket?page=1&m_id=1939&id=7994
-- Lingering Garden (Liu Yuan): Famous for its intricate architectural layout and collection of unusual rocks. https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8184
-- Lion Grove Garden (Shi Zi Lin): A Yuan Dynasty garden known for its maze-like rock formations. https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8181
-- Tiger Hill (Hu Qiu): Known as the "Premier Scenic Spot of Wu Zhong," featuring the famous leaning pagoda. https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8183
-- Jinji Lake Scenic Area: Represents modern Suzhou, offering city skyline views and lake scenery. https://jinjilake.sipac.gov.cn/index.html
+- Humble Administrator's Garden (Zhuozheng Yuan): One of China's four most famous classical gardens, the largest and most renowned garden in Suzhou. [https://web.lotsmall.cn/detail/ticket?page=1&m_id=1939&id=7994](https://web.lotsmall.cn/detail/ticket?page=1&m_id=1939&id=7994)
+- Lingering Garden (Liu Yuan): Famous for its intricate architectural layout and collection of unusual rocks. [https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8184](https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8184)
+- Lion Grove Garden (Shi Zi Lin): A Yuan Dynasty garden known for its maze-like rock formations. [https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8181](https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8181)
+- Tiger Hill (Hu Qiu): Known as the "Premier Scenic Spot of Wu Zhong," featuring the famous leaning pagoda. [https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8183](https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8183)
+- Jinji Lake Scenic Area: Represents modern Suzhou, offering city skyline views and lake scenery. [https://jinjilake.sipac.gov.cn/index.html](https://jinjilake.sipac.gov.cn/index.html)
 
 ### Water Towns
 - Zhouzhuang: One of China's most famous water town古镇, about 1 hour from Suzhou city center. https://www.zhouzhuang.net/
@@ -76,8 +76,8 @@ When crossing roads, please follow traffic signals, as while vehicles may yield 
 
 ### Museums and Cultural Sites
 - Suzhou Museum: Designed by renowned architect I.M. Pei, showcasing Suzhou's history and culture. https://www.szmuseum.com/
-- Suzhou Silk Museum: An excellent place to learn about China's silk culture. https://www.szsilkmuseum.com/#/
-- Kunqu Opera Museum: Experience one of China's oldest forms of traditional opera. http://www.pj-road.com/scenic-spot-detail.aspx?id=5
+- Suzhou Silk Museum: An excellent place to learn about China's silk culture. [https://www.szsilkmuseum.com/](https://www.szsilkmuseum.com/)
+- Kunqu Opera Museum: Experience one of China's oldest forms of traditional opera. [http://www.pj-road.com/scenic-spot-detail.aspx?id=5](http://www.pj-road.com/scenic-spot-detail.aspx?id=5)
 
 ### Shopping, Dining, and Entertainment
 
@@ -85,7 +85,7 @@ When crossing roads, please follow traffic signals, as while vehicles may yield 
 - Guanqian Stree（观前街）t: Suzhou's most famous commercial pedestrian street, featuring both time-honored brands and modern stores
 - Eslite Spectrum（诚品书店）: Not just a bookstore but a cultural lifestyle space, located in the Industrial Park
 - Ligongdi（李公堤）: Commercial street along Jinji Lake with boutique shops, galleries, and cafes
-- Suzhou Village（苏州比斯特购物中心）: Featuring over 200 international and Asian renowned fashion and lifestyle brand boutique stores. https://sz.thebicestercollection.cn/
+- Suzhou Village（苏州比斯特购物中心）: Featuring over 200 international and Asian renowned fashion and lifestyle brand boutique stores. [https://sz.thebicestercollection.cn/](https://sz.thebicestercollection.cn/)
 
 ### Dining Recommendations
 - Songhelou（松鹤楼）: A century-old establishment famous for Suzhou-style cuisine
