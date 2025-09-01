@@ -12,23 +12,23 @@ toc_sticky: True
 Suzhou is a historical and cultural city in Jiangsu Province, China, located in the Yangtze River Delta, about 100 kilometers from Shanghai. With over 2,500 years of history, Suzhou is known as the "Venice of the East" for its classical gardens, water town characteristics, and silk culture. It is recognized by UNESCO as a "World Heritage City," with nine classical gardens listed as World Cultural Heritage sites.
 Suzhou not only preserves rich traditional culture but is also one of China's most economically active cities, home to numerous high-tech enterprises and industrial parks. The Jinji Lake area represents Suzhou's modern urban landscape, while Pingjiang Road and Shantang Street showcase the traditional water town charm of Suzhou.
 
-### Local Information About Suzhou
+## Local Information About Suzhou
 
-#### Tipping
+### Tipping
 In China, tipping is generally not expected or required. Service charges are usually included in hotel and restaurant bills. If you are particularly satisfied with the service, you may offer a small token of appreciation, but this is not customary. Taxi drivers and hotel bellhops do not typically expect tips.
 
-#### Weather
+### Weather
 During the EMNLP conference period (assumed November 2025), Suzhou's weather is typically mild and pleasant:
 - Average temperature: 10°C - 18°C (50°F - 64°F)
 - Precipitation: November is towards the end of autumn in Suzhou with relatively less rainfall, though occasional light rain may occur
 - Clothing recommendation: Bring light jackets; temperature differences between morning/evening and daytime can be significant, so a medium-weight jacket is advisable
 
-#### Power Outlets and Adapters
+### Power Outlets and Adapters
 - Voltage: 220V, Frequency: 50Hz
 - Socket types: China primarily uses Type A (two flat parallel pins), Type C (two round pins), and Type I (three flat pins in a triangular pattern)
 - Recommendation: Please bring power adapters suitable for Chinese standards. Most hotels provide international socket converters, but quantities may be limited, so it's advisable to bring your own.
 
-#### Local Customs (Do's and Don'ts in China)
+### Local Customs (Do's and Don'ts in China)
 
 **Do's**
 - Greetings: Nodding with a smile or shaking hands is common; say "Nǐ hǎo" (你好) when meeting someone for the first time
@@ -44,7 +44,7 @@ During the EMNLP conference period (assumed November 2025), Suzhou's weather is 
 - Sensitive topics: Avoid discussions about politics, religion, and other sensitive subjects
 - Food waste: Wasting food is viewed as disrespectful in Chinese culture
 
-#### Language
+### Language
 - Official language: Mandarin Chinese
 - Local dialect: Suzhou dialect (a form of Wu Chinese), but most Suzhou residents can speak Mandarin
 - Basic phrases:
@@ -55,26 +55,26 @@ During the EMNLP conference period (assumed November 2025), Suzhou's weather is 
 请问 (Qǐng wèn) - Excuse me/May I ask
 多少钱 (Duōshǎo qián) - How much
 
-#### Walking
+### Walking
 - In China, people generally walk on the right side of the sidewalk
 - If you need to stop to check your phone or map, please move to the side to avoid blocking others
 When crossing roads, please follow traffic signals, as while vehicles may yield to pedestrians, it's best to wait for the green light
 
-### Things to Do in Suzhou
+## Things to Do in Suzhou
 
-#### Gardens and Parks
+### Gardens and Parks
 - Humble Administrator's Garden (Zhuozheng Yuan): One of China's four most famous classical gardens, the largest and most renowned garden in Suzhou. https://web.lotsmall.cn/detail/ticket?page=1&m_id=1939&id=7994
 - Lingering Garden (Liu Yuan): Famous for its intricate architectural layout and collection of unusual rocks. https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8184
 - Lion Grove Garden (Shi Zi Lin): A Yuan Dynasty garden known for its maze-like rock formations. https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8181
 - Tiger Hill (Hu Qiu): Known as the "Premier Scenic Spot of Wu Zhong," featuring the famous leaning pagoda. https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8183
 - Jinji Lake Scenic Area: Represents modern Suzhou, offering city skyline views and lake scenery. https://jinjilake.sipac.gov.cn/index.html
 
-#### Water Towns
+### Water Towns
 - Zhouzhuang: One of China's most famous water town古镇, about 1 hour from Suzhou city center. https://www.zhouzhuang.net/
 - Tongli: A well-preserved water town known as the "Little Venice of the East". http://www.tongli.net/
 - Pingjiang Historic Street: The most intact historic district within Suzhou's ancient city, offering traditional water town experience. http://www.pj-road.com/
 
-#### Museums and Cultural Sites
+### Museums and Cultural Sites
 - Suzhou Museum: Designed by renowned architect I.M. Pei, showcasing Suzhou's history and culture. https://www.szmuseum.com/
 - Suzhou Silk Museum: An excellent place to learn about China's silk culture. https://www.szsilkmuseum.com/#/
 - Kunqu Opera Museum: Experience one of China's oldest forms of traditional opera. http://www.pj-road.com/scenic-spot-detail.aspx?id=5
@@ -87,41 +87,41 @@ When crossing roads, please follow traffic signals, as while vehicles may yield 
 - Ligongdi（李公堤）: Commercial street along Jinji Lake with boutique shops, galleries, and cafes
 - Suzhou Village（苏州比斯特购物中心）: Featuring over 200 international and Asian renowned fashion and lifestyle brand boutique stores. https://sz.thebicestercollection.cn/
 
-#### Dining Recommendations
+### Dining Recommendations
 - Songhelou（松鹤楼）: A century-old establishment famous for Suzhou-style cuisine
 - Deyuelou（得月楼）: Another renowned restaurant for Suzhou cuisine, featured in the film "Gourmet"
 - Wumen Renjia（吴门人家）: Experience authentic Suzhou home-style cooking
 - Huangtianyuan（黄天源）: Try traditional Suzhou pastries
 - Yaba Shengjian（哑巴生煎）: Famous snack shop known for its pan-fried buns
 
-#### Entertainment
+### Entertainment
 - Kunqu Opera Performances: Watch traditional Chinese opera at the Kunqu Opera Museum or specific theaters
 - Pingtan Performances: Enjoy Suzhou's traditional storytelling and singing art at teahouses
 - Jinji Lake Night Views: Experience the Jinji Lake light show and city nightscapes
 - Suzhou Culture and Arts Center: Attend various modern performances and exhibitions
 
-### Best Transportation to Get Around the City
+## Best Transportation to Get Around the City
 
-#### Recommended Transportation Options
+### Recommended Transportation Options
 - Metro: Suzhou has an extensive metro system with 5 operational lines covering major attractions and commercial areas. The "Su e-Travel" app makes scanning for rides very convenient.
 - Buses: Affordable (typically 1-2 yuan), but may encounter traffic congestion. Alipay or WeChat Pay can be used for payment.
 - Taxis/Ride-hailing: Starting fare around 10 yuan, usually not exceeding 30 yuan within the city. Didi Chuxing app is recommended for booking.
 - Shared Bicycles: Hellobike, Meituan, and other shared bicycles are widespread throughout the city, ideal for short-distance travel.
 - Boat Cruises: In water town areas like Pingjiang Road and Shantang Street, you can take boat cruises to experience the water city charm.
 
-### Practical Information
+## Practical Information
 
-#### Currency
+### Currency
 - Official currency: Chinese Yuan (RMB)
 - Exchange rate: 1 USD ≈ 7.2 RMB (subject to change)
 - Payment methods: Alipay and WeChat Pay are widely accepted almost everywhere; credit cards are accepted in large malls and hotels; it's advisable to carry some cash as backup
 
-#### Public Transportation Etiquette
+### Public Transportation Etiquette
 - Please queue orderly when boarding and alighting
 - Offer your seat to elderly passengers, pregnant women, and those with children
 - Keep noise levels low in public transportation vehicles
 
-#### Important Notes
+### Important Notes
 - Smoking restrictions: Smoking is prohibited in indoor public places, public transportation, and many outdoor areas
 - Waste sorting: Suzhou has implemented waste sorting regulations; please dispose of garbage according to the designated categories
 - Emergency numbers: Police 110, Medical Emergency 120, Fire 119
