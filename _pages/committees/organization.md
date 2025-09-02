@@ -18,6 +18,7 @@ sidebar:
 %}
 
 <h2>Program Chairs</h2>
+For program-related questions (not covered in the FAQ) please email emnlp2025-programchairs@googlegroups.com
 {% include committee-member.html
    name="Christos Christodoulopoulos"
    institution="Information Commissioner's Office (ex-Amazon)"
