@@ -23,7 +23,6 @@ main:
     url: /blog/
 
   - title: "FAQ"
-    url: /faq/
 
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
