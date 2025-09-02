@@ -8,7 +8,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/suzhou_city/emnlp_2025_background.jpg"
   #caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2025 Website Image.png</a> '
-  caption:
+  caption: "Photo by 4045 from Getty Images"
 excerpt: "November 4 &ndash;9<br>Suzhou, China"
 ---
 
