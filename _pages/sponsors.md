@@ -72,7 +72,7 @@ silver:
     alt: Appen
     title: Appen
   - url: 
-    image_path: /assets/images/logos/hlt-logo.png
+    image_path: assets/images/logos/HPLT-logo-light.png
     alt: HPLT Project
     title: HPLT Project
 
