@@ -58,3 +58,5 @@ Visa requirements depend on your nationality and the purpose of your visit.
 ## Final Note for Attendees
 
 Visa policies can change. Always confirm the latest requirements with your local Chinese embassy/consulate before applying.
+
+For Visa related questions, please email: Wei ji at weiji@nju.edu.cn and Jiaheng Liu at liujiaheng@nju.edu.cn
