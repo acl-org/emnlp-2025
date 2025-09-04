@@ -79,7 +79,7 @@ committees:
     children:
       - title: "Organizing Committee"
         url: /organization/
-      - title: "Senior Program Committee"
+      - title: "Senior Area Chairs"
         url: /organization/program/
 
 venue:
