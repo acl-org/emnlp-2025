@@ -1,7 +1,7 @@
 ---
-title: Program Committee
+title: Area Chairs
 layout: single
-excerpt: "EMNLP 2025 Senior Program Committee."
+excerpt: "EMNLP 2025 Senior Area Chairs."
 permalink: /organization/program/
 sidebar:
   nav: "committees"
