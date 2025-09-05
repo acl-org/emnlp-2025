@@ -123,8 +123,8 @@ Invited speakers and panelists will receive a registration code. Additional invi
 
 ### Virtual Registration Rates
 
-| Start Date | 25-Aug-25 | 3-Jul-25 | 26-Jul-25 |
-| End Date | 7/2/2025 AOE | 7/25/2025 CET | 8/1/2025 CET |
+| Start Date | 25-Aug-25 | 7-Oct-25 | 4-Nov-25 |
+| End Date | 6-Oct-25 AOE | 3-Nov-25 GMT +8 | 9-Nov-25 G<T +8 |
 |:--|:--:|:--:|:--:|
 | V - Full Conference - Registering Paper Industrial/Non-Academic | $550.00 | $650.00 | $700.00 |
 | V - Full Conference - Industrial/Non-Academic | $450.00 | $550.00 | $600.00 |
