@@ -69,7 +69,7 @@ Methods for deployed systems, with topics in alphabetical order including, but n
 ## Important Dates
 
 - Paper submission deadline: July 4, 2025  
-- Reviewer-author discussion period: August 28 – September 4, 2025  
+- Reviewer-author discussion period: August 28 – September 8, 2025  
 - Notification: September 24, 2025  
 - Camera-ready version of papers due: October 8, 2025  
 - Main conference: 5 - 9 November 2025  
