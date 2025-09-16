@@ -27,7 +27,7 @@ EMNLP 2025 has secured a room block at the Novotel Suzhou SIP, The InterContinen
 Suzhou 215027, Jiangsu, P.R. China  
 **Phone:** T +86 (0) 512 6288 2800 *6812  
 
-**Booking link for all delegates, click [Here](https://all.accor.com/ssr/app/accor/rates/9442/index.en.shtml?dateIn=2025-11-20&nights=1&compositions=1&stayplus=false&snu=false&accessibleRooms=false&hideWDR=false&productCode=null&hideHotelDetails=false)**
+**Booking link for all delegates, click [Here](https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9442&dayIn=20&monthIn=11&yearIn=2025&nightNb=1&preferredCode=E2456&code_langue=EN)**
 
 **Discounted Rates**  
 $115.38USD / 1 King bed Single-Double Occupancy or 2 Single beds; Single-Triple Occupancy per room night includes breakfast, taxes, and service charges. Full amount of stay is paid at time of booking and is non-refundable
