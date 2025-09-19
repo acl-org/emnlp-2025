@@ -8,6 +8,12 @@ toc_sticky: true
 toc_icon: "cog"
 toc_label: "&nbsp;Sponsorship Tier"
 
+destination_host:
+  - url: 
+    image_path: /assets/images/logos/Bailu-logo.png
+    alt: Bailu
+    title: Bailu
+
 diamond:
   - url: https://machinelearning.apple.com
     image_path: /assets/images/logos/apple-logo.png
@@ -147,6 +153,10 @@ EMNLP 2025 invites you to sponsor the conference. If your organization would lik
 .sponsors-list > a:hover { box-shadow: 0 0 10px #00000044; }
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
+
+## Destination Host
+
+{% include sponsors-list id="destination_host" layout="third" %}
 
 ## Diamond
 
