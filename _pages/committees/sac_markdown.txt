@@ -2,7 +2,7 @@
 
 {% include committee-member.html
    name="Ahmad Beirami"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Ahmad-Beirami.jpg"
    institution=""
 %}
 
