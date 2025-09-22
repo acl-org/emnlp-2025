@@ -3,7 +3,7 @@
 {% include committee-member.html
    name="Ahmad Beirami"
    picture="/assets/images/committee/senior_area_chairs/Ahmad-Beirami.jpg"
-   institution=""
+   institution="Google DeepMind"
 %}
 
 {% include committee-member.html
@@ -20,13 +20,13 @@
 
 {% include committee-member.html
    name="Mengjie Zhao"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Mengjie-Zhao.jpg"
    institution="SB Intuitions / Softbank"
 %}
 
 {% include committee-member.html
    name="Pan Lu"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Pan-Lu.jpg"
    institution="Stanford University"
 %}
 
@@ -38,8 +38,8 @@
 
 {% include committee-member.html
    name="Shumin Deng"
-   picture="/assets/images/committee/program_chairs/test.png"
-   institution=""
+   picture="/assets/images/committee/senior_area_chairs/Shumin-Deng.jpg"
+   institution="National University of Singapore"
 %}
 
 {% include committee-member.html
@@ -50,25 +50,25 @@
 
 {% include committee-member.html
    name="Xuan Wang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Xuan-Wang.jpg"
    institution="Virginia Polytechnic Institute and State University"
 %}
 
 {% include committee-member.html
    name="Xuebo Liu"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Xuebo-Liu.jpg"
    institution="Harbin Institute of Technology, Shenzhen"
 %}
 
 {% include committee-member.html
    name="Yu Su"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yu-Su.jpg"
    institution="Ohio State University"
 %}
 
 {% include committee-member.html
    name="Zilong Zheng"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Zilong-Zheng.jpg"
    institution="Beijing Institute for General Artificial Intelligence"
 %}
 
@@ -83,7 +83,7 @@
 
 {% include committee-member.html
    name="Frank F. Xu"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Frank-Xu.jpg"
    institution="Microsoft"
 %}
 
@@ -94,8 +94,8 @@
 %}
 
 {% include committee-member.html
-   name="LINGMING ZHANG"
-   picture="/assets/images/committee/program_chairs/test.png"
+   name="Lingming Zhang"
+   picture="/assets/images/committee/senior_area_chairs/Lingming-Zhang.jpg"
    institution="University of Illinois Urbana-Champaign"
 %}
 
@@ -122,7 +122,7 @@
 
 {% include committee-member.html
    name="Ashiqur R. KhudaBukhsh"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Ashiqur-KhudaBukhsh.jpg"
    institution="Rochester Institute of Technology"
 %}
 
@@ -134,7 +134,7 @@
 
 {% include committee-member.html
    name="Debora Nozza"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Debora-Nozza.jpg"
    institution="Bocconi University"
 %}
 
@@ -146,7 +146,7 @@
 
 {% include committee-member.html
    name="Pawan Goyal"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Pawan-Goyal.jpg"
    institution="IIT Kharagpur"
 %}
 
@@ -158,7 +158,7 @@
 
 {% include committee-member.html
    name="Roy Ka-Wei Lee"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Roy-Lee.jpg"
    institution="Singapore University of Technology and Design"
 %}
 
@@ -170,7 +170,7 @@
 
 {% include committee-member.html
    name="Usman Naseem"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Usman-Naseem.jpg"
    institution="Macquarie University"
 %}
 
@@ -179,7 +179,7 @@
 
 {% include committee-member.html
    name="Lara J. Martin"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Lara-Martin.jpg"
    institution="University of Maryland, Baltimore County"
 %}
 
@@ -212,7 +212,7 @@
 
 {% include committee-member.html
    name="Juntao Yu"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Juntao-Yu.jpg"
    institution="Queen Mary University London"
 %}
 
@@ -230,7 +230,7 @@
 
 {% include committee-member.html
    name="Vincent Ng"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Vincent-Ng.jpg"
    institution=""
 %}
 
@@ -239,13 +239,13 @@
 
 {% include committee-member.html
    name="Hadi Amiri"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Hadi-Amiri.jpg"
    institution="University of Massachusetts Lowell"
 %}
 
 {% include committee-member.html
    name="Mengnan Du"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Mengnan-Du.jpg"
    institution="New Jersey Institute of Technology"
 %}
 
@@ -263,7 +263,7 @@
 
 {% include committee-member.html
    name="Sunipa Dev"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Sunipa-Dev.jpg"
    institution="Google"
 %}
 
@@ -278,31 +278,31 @@
 
 {% include committee-member.html
    name="Roi Reichart"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Roi-Reichart.jpg"
    institution="Technion, Israel Institute of Technology"
 %}
 
 {% include committee-member.html
-   name="Shay B Cohen"
+   name="Shay B. Cohen"
    picture="/assets/images/committee/program_chairs/test.png"
    institution="University of Edinburgh"
 %}
 
 {% include committee-member.html
    name="Swabha Swayamdipta"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Swabha-Swayamdipta.jpg"
    institution="University of Southern California"
 %}
 
 {% include committee-member.html
    name="Yue Zhang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yue-Zhang.jpg"
    institution="Westlake University"
 %}
 
 {% include committee-member.html
    name="Zoey Liu"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Zoey-Liu.jpg"
    institution="University of Florida"
 %}
 
@@ -332,19 +332,19 @@
 
 {% include committee-member.html
    name="Hao Wang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Hao-Wang.jpg"
    institution="Sichuan University"
 %}
 
 {% include committee-member.html
    name="Lemei Zhang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Lemei-Zhang.jpg"
    institution="Norwegian University of Science and Technology"
 %}
 
 {% include committee-member.html
    name="Luciana Benotti"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Luciana-Benotti.jpg"
    institution="Universidad nacional de Córdoba"
 %}
 
@@ -383,19 +383,19 @@
 
 {% include committee-member.html
    name="Krisztian Balog"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Krisztian-Balog.jpg"
    institution="Google and University of Stavanger"
 %}
 
 {% include committee-member.html
    name="Qifan Wang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Qifan-Wang.jpg"
    institution="Meta AI"
 %}
 
 {% include committee-member.html
    name="Sourish Dasgupta"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Sourish-Dasgupta.jpg"
    institution="Dhirubhai Ambani Institute of Information & Communication Technology"
 %}
 
@@ -407,7 +407,7 @@
 
 {% include committee-member.html
    name="Wenhu Chen"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Wenhu-Chen.jpg"
    institution="University of Waterloo"
 %}
 
@@ -422,19 +422,19 @@
 
 {% include committee-member.html
    name="Gjergji Kasneci"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Gjergji-Kasneci.jpg"
    institution="Technische Universität München and University of Tuebingen"
 %}
 
 {% include committee-member.html
    name="Nadir Durrani"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Nadir-Durrani.jpg"
    institution="Qatar Computing Research Institute"
 %}
 
 {% include committee-member.html
    name="Peter Hase"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Peter-Hase.jpg"
    institution="Schmidt Sciences"
 %}
 
@@ -443,25 +443,25 @@
 
 {% include committee-member.html
    name="Aline Villavicencio"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Aline-Villavicencio.jpg"
    institution="University of Exeter and University of Sheffield"
 %}
 
 {% include committee-member.html
-   name="Cassandra L Jacobs"
-   picture="/assets/images/committee/program_chairs/test.png"
+   name="Cassandra L. Jacobs"
+   picture="/assets/images/committee/senior_area_chairs/Cassandra-Jacobs.jpg"
    institution="State University of New York, Buffalo"
 %}
 
 {% include committee-member.html
    name="Rui Wang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Rui-Wang.jpg"
    institution="Shanghai Jiao Tong University"
 %}
 
 {% include committee-member.html
    name="Tal Linzen"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Tal-Linzen.jpg"
    institution="New York University and Google"
 %}
 
@@ -497,31 +497,31 @@
 
 {% include committee-member.html
    name="Mehdi Rezagholizadeh"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Mehdi-Rezagholizadeh.jpg"
    institution="Advanced Micro Devices"
 %}
 
 {% include committee-member.html
    name="Miryam de Lhoneux"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Miryam-de-Lhoneux.jpg"
    institution="KU Leuven"
 %}
 
 {% include committee-member.html
    name="Shafiq Joty"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Shafiq-Rayhan-Joty.jpg"
    institution="Nanyang Technological University and SalesForce.com"
 %}
 
 {% include committee-member.html
    name="Wasi Uddin Ahmad"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Wasi-Ahmad.jpg"
    institution="NVIDIA"
 %}
 
 {% include committee-member.html
    name="Yue Dong"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yue-Dong.jpg"
    institution="University of California, Riverside and McGill University"
 %}
 
@@ -536,7 +536,7 @@
 
 {% include committee-member.html
    name="Derek F. Wong"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Derek-Wong.jpg"
    institution="University of Macau"
 %}
 
@@ -563,7 +563,7 @@
 
 {% include committee-member.html
    name="Zhiting Hu"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Zhiting-Hu.jpg"
    institution="University of California, San Diego and Amazon"
 %}
 
@@ -572,13 +572,13 @@
 
 {% include committee-member.html
    name="Antonios Anastasopoulos"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Antonios-Anastasopoulos.jpg"
    institution="Athena Research Center and George Mason University"
 %}
 
 {% include committee-member.html
    name="Ivan Vulić"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Ivan-Vulic.jpg"
    institution="Google DeepMind and University of Cambridge"
 %}
 
@@ -605,7 +605,7 @@
 
 {% include committee-member.html
    name="Xin Eric Wang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Xin-Eric-Wang.jpg"
    institution="University of California, Santa Barbara and Simular"
 %}
 
@@ -617,7 +617,7 @@
 
 {% include committee-member.html
    name="Yujun Cai"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yujun-Cai.jpg"
    institution="The University of Queensland"
 %}
 
@@ -632,7 +632,7 @@
 
 {% include committee-member.html
    name="Lianhui Qin"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Lianhui-Qin.jpg"
    institution=""
 %}
 
@@ -668,7 +668,7 @@
 
 {% include committee-member.html
    name="Aakanksha Naik"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Aakanksha-Naik.jpg"
    institution="Allen Institute for Artificial Intelligence and National Institutes of Health"
 %}
 
@@ -680,19 +680,19 @@
 
 {% include committee-member.html
    name="Gabriele Pergola"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Gabriele-P.jpg"
    institution="University of Warwick"
 %}
 
 {% include committee-member.html
    name="Gholamreza Haffari"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Gholamreza-Haffari.jpg"
    institution="Monash University, Monash University and Monash University"
 %}
 
 {% include committee-member.html
    name="Gokhan Tur"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Gokhan-Tur.jpg"
    institution="University of Illinois at Urbana-Champaign"
 %}
 
@@ -722,7 +722,7 @@
 
 {% include committee-member.html
    name="Roman Klinger"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Roman-Klinger.jpg"
    institution="Otto-Friedrich Universität Bamberg"
 %}
 
@@ -740,7 +740,7 @@
 
 {% include committee-member.html
    name="Tristan Naumann"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Tristan-Naumann.jpg"
    institution="Microsoft Research"
 %}
 
@@ -752,7 +752,7 @@
 
 {% include committee-member.html
    name="Yu Zhang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yu-Zhang.jpg"
    institution="Texas A&M University - College Station"
 %}
 
@@ -761,7 +761,7 @@
 
 {% include committee-member.html
    name="Eleanor Chodroff"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Eleanor-Chodroff.jpg"
    institution="University of Zurich"
 %}
 
@@ -779,7 +779,7 @@
 
 {% include committee-member.html
    name="Sarah Moeller"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Sarah-R-M.jpg"
    institution="University of Florida"
 %}
 
@@ -812,13 +812,13 @@
 
 {% include committee-member.html
    name="Qingqing Cao"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Qingqing-Cao.jpg"
    institution="Apple"
 %}
 
 {% include committee-member.html
    name="Yuval Pinter"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yuval-Pinter.jpg"
    institution="Ben-Gurion University of the Negev"
 %}
 
@@ -839,13 +839,13 @@
 
 {% include committee-member.html
    name="David Ifeoluwa Adelani"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/David-Adelani.jpg"
    institution="McGill University"
 %}
 
 {% include committee-member.html
    name="Marzena Karpinska"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Marzena-Karpinska.jpg"
    institution="Microsoft"
 %}
 
@@ -857,19 +857,19 @@
 
 {% include committee-member.html
    name="Mukul Singh"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Mukul-Singh.jpg"
    institution="Microsoft"
 %}
 
 {% include committee-member.html
    name="Peng Liu"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Peng-Liu.jpg"
    institution="Norwegian University of Science and Technology"
 %}
 
 {% include committee-member.html
    name="Salam Khalifa"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Salam-Khalifa.jpg"
    institution="New York University and State University of New York, Stony Brook"
 %}
 
@@ -881,13 +881,13 @@
 
 {% include committee-member.html
    name="Xi Ye"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Xi-Ye.jpg"
    institution=""
 %}
 
 {% include committee-member.html
    name="Yinya Huang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yinya-Huang.jpg"
    institution="ETH Zurich"
 %}
 
@@ -908,7 +908,7 @@
 
 {% include committee-member.html
    name="Yiwei Wang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yiwei-Wang.jpg"
    institution="University of California, Merced"
 %}
 
@@ -941,7 +941,7 @@
 
 {% include committee-member.html
    name="Zhuosheng Zhang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Zhuosheng-Zhang.jpg"
    institution="Shanghai Jiao Tong University"
 %}
 
@@ -962,13 +962,13 @@
 
 {% include committee-member.html
    name="Joo-Kyung Kim"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Jo-Kyung-Kim.jpg"
    institution="Amazon"
 %}
 
 {% include committee-member.html
    name="Kuan-Hao Huang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Kuan-Hao-Huang.jpg"
    institution="Texas A&M University"
 %}
 
@@ -995,19 +995,19 @@
 
 {% include committee-member.html
    name="Henning Wachsmuth"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Henning-Wachsmuth.jpg"
    institution="Leibniz Universität Hannover"
 %}
 
 {% include committee-member.html
    name="Saif M. Mohammad"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Saif-Mohammad.jpg"
    institution=""
 %}
 
 {% include committee-member.html
    name="Veronique Hoste"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Veronique-Hoste.jpg"
    institution=""
 %}
 
@@ -1016,7 +1016,7 @@
 
 {% include committee-member.html
    name="Armineh Nourbakhsh"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Armineh-Nourbakhsh.jpg"
    institution="Apple"
 %}
 
@@ -1034,7 +1034,7 @@
 
 {% include committee-member.html
    name="Jana Diesner"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Jana-Diesner.jpg"
    institution="Technische Universität München"
 %}
 
@@ -1073,7 +1073,7 @@
 
 {% include committee-member.html
    name="Sakriani Sakti"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/S-Sakti.jpg"
    institution="Nara Institute of Science and Technology, Japan, Japan Advanced Institute of Science and Technology, Tokyo Institute of Technology, Universitas Indonesia and RIKEN"
 %}
 
@@ -1082,13 +1082,13 @@
 
 {% include committee-member.html
    name="Lu Wang"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Lu-Wang.jpg"
    institution="Northeastern University, Northeastern University and University of Michigan"
 %}
 
 {% include committee-member.html
    name="Sachin Kumar"
-   picture="/assets/images/committee/program_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Sachin-Kumar.jpg"
    institution="Ohio State University, Columbus"
 %}
 
