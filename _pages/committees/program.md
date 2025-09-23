@@ -694,7 +694,7 @@ sidebar:
 
 {% include committee-member.html
    name="Gholamreza Haffari"
-   picture="/assets/images/committee/senior_area_chairs/Gholamreza-Haffari.jpg"
+   picture="/assets/images/committee/senior_area_chairs/gholamreza-haffari.jpg"
    institution="Monash University, Monash University and Monash University"
 %}
 
