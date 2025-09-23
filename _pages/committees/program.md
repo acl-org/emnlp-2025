@@ -970,7 +970,7 @@ sidebar:
 
 {% include committee-member.html
    name="Joo-Kyung Kim"
-   picture="/assets/images/committee/senior_area_chairs/Jo-Kyung-Kim.jpg"
+   picture="/assets/images/committee/senior_area_chairs/Joo-Kyung-Kim.jpg"
    institution="Amazon"
 %}
 
