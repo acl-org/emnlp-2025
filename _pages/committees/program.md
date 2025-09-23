@@ -580,7 +580,7 @@ sidebar:
 
 {% include committee-member.html
    name="Antonios Anastasopoulos"
-   picture="/assets/images/committee/senior_area_chairs/Antonios-Anastasopoulos.jpg"
+   picture="/assets/images/committee/senior_area_chairs/Antonis-Anastasopoulos.jpg"
    institution="Athena Research Center and George Mason University"
 %}
 
