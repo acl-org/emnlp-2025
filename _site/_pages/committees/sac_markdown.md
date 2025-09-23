@@ -2,7 +2,7 @@
 
 {% include committee-member.html
    name="Ahmad Beirami"
-   picture="/assets/images/committee/senior_area_chairs/Ahmad-Beirami.jpg"
+   picture="/assets/images/committee/senior_area_chairs/Ahmad-Beirami.png"
    institution="Google DeepMind"
 %}
 
