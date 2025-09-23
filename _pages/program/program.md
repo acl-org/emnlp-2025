@@ -45,7 +45,7 @@ toc_icon: "cog"
 | **12:00 - 14:00** |  | Lunch Break |
 | **12:30 - 13:30** |  | Session 8: Findings 2 |
 | **14:00 - 14:45** |  | Session 9: Business Meeting |
-| **15:00 - 16:00** |  | Panel: Advancing our Reach: Do's, Don'ts and Lessons learned in Interdisciplinary Research |
+| **15:00 - 16:00** | B301 | Panel: Advancing our Reach: Do's, Don'ts and Lessons learned in Interdisciplinary Research |
 | **16:00 - 16:30** |  | Coffee Break |
 | **16:30 - 18:00** |  | **Session 11: Orals/Posters E**<br>• Orals: LLM Efficiency 2 (A102–103)<br>• Orals: Safety and Alignment in LLMs 2 (A104–105)<br>• Orals: Multimodality and Language Grounding to Vision, Robotics and Beyond 4 (A106–107)<br>• Orals: Human-AI Interaction/Cooperation (A108)<br>• Orals: Computational Social Science 3 (A109)<br>• Orals: AI/LLM Agents 2 (A110)<br>• Orals: Multilinguality and Language Diversity 2 (A301)<br>• Orals: Semantics: Lexical, Sentence-level Semantics, Textual Inference and Other areas (A303)<br>• BoF: TBA (A202)<br>• Industry: (A204–205)<br> &nbsp;&nbsp;&nbsp;Oral Presentations<br> &nbsp;&nbsp;&nbsp;Keynote: [Khrisitna Jokinen](https://www.kristiinajokinen.fi/)<br>• BoF: TBA (A209)<br>• BoF: TBA (A211)<br>• Poster & Demo Presentations (Hall C Level 3) |
 | **19:00 - 22:00** |  | Social Event — Social Event for all Registered Full, Main, or Social Event add-ons |
