@@ -75,6 +75,8 @@ program:
     children:
       - title: "Keynotes"
         url: /program/keynotes/
+      - title: "Panel"
+        url: /program/panel/
 
 committees:
   - title: Committees

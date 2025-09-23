@@ -49,6 +49,9 @@
 <loc>http://0.0.0.0:4000/organization/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/program/panel/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/organization/program/</loc>
 </url>
 <url>
