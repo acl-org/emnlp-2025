@@ -1,0 +1,36 @@
+---
+title: Industry Track
+layout: single
+excerpt: "EMNLP 2025 Industry Program."
+permalink: /program/industry
+sidebar:
+    nav: program
+toc: true
+toc_sticky: true
+toc_icon: "cog"
+---
+
+## Industry Program
+
+### Wednesday, November 5, 2025
+
+| Time | Location | Session Number |  |
+| --- | --- | --- | --- |
+| **11:00 - 12:30** | A204-205 | Session 2 | Opening<br> Keynote - [Kai Chen](https://chenkai.site/)<br> Oral Presentation<br> |
+| **14:30 - 16:00** | A204-205 | Session 4 | Poster Session I<br> |
+| **16:30 - 18:00** | A204-205 | Session 5 | Oral Presentations<br> Keynote - [JianPing Fan](https://research.lenovo.com/webapp/view_English/personal.html?id=681)<br> |
+
+### Thursday, November 6, 2025
+
+| Time | Location | Session Number |  |
+| --- | --- | --- | --- |
+| **10:30 - 12:00** | A204-205 | Session 7 | Poster Session II<br> |
+| **16:30 - 18:00** | A204-205 | Session 11 | Oral Presentations<br> Keynote - [Khrisitna Jokinen](https://www.kristiinajokinen.fi)<br> |
+| **19:00 - 22:00** | A204-205 | Social Event | 
+
+### Friday, November 7, 2025
+
+| Time | Location | Session Number |  |
+| --- | --- | --- | --- |
+| **10:30 - 12:00** | A204-205 | Session 13 | Poster Session III<br> |
+| **14:00 - 15:30** | A204-205 | Session 15 | Oral Presentations<br> Panel<br> Closing Session<br> |
