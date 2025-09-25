@@ -2,7 +2,7 @@
 title: Industry Track
 layout: single
 excerpt: "EMNLP 2025 Industry Program."
-permalink: /program/industry
+permalink: /program/industry/
 sidebar:
     nav: program
 toc: true
