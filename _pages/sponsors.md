@@ -27,6 +27,10 @@ diamond:
     image_path: /assets/images/logos/miromind-ai-logo.png
     alt: Miromind
     title: Miromind
+  - url: https://hpc-ai.com/
+    image_path: /assets/images/logos/hpc-ai-logo.png
+    alt: HPC-AI TECH
+    title: HPC-AI TECH
 
 platinum:
   - url: https://toloka.ai/
