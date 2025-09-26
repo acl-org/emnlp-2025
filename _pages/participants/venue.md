@@ -74,6 +74,19 @@ All other international delegates: book through your preferred engine or the hot
 
 ---
 
+**[Hilton Suzhou](https://www.hilton.com/en/hotels/szvtvhi-hilton-suzhou/?arrivalDate=2025-11-03&departureDate=2025-11-11&flexibleDates=false&numRooms=1&numAdults=3&numChildren=0&room1ChildAges=&room1AdultAges=%2C%2C&groupCode=GEMNA)**
+
+**Distance:**  4.3 km (7min drive, 50-minute walk) from the Suzhou International Expo Center  
+**Address:** 275 Suzhou Ave East Industrial Park,<br>
+Suzhou, China, 215028<br>
+**Rates on Ctrip.com:** 900 CNY single / 1,001 CNY double / 1,385 CNY triple occupancy King/Twins.
+
+Price includes breakfast and service charge.
+
+[Discounted booking](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=SZVTVHI&groupCode=GEMNA&arrivaldate=2025-11-03&departuredate=2025-11-11&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT), non-refundable, while rooms are available.
+
+---
+
 **[Fairfield by Marriott Suzhou Jinji Lake（苏州金鸡湖万豪万枫酒店·博览中心店）](https://www.marriott.com/en-us/hotels/wuxsj-fairfield-suzhou-jinji-lake/overview/)**
 
 **Distance:** 1.5 km (6-minute drive, 20-minute walk) from the Suzhou International Expo Center  
