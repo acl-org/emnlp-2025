@@ -36,7 +36,7 @@ Once more, volunteering grants you complimentary registration solely for EMNLP 2
 ## Important Dates										
 - Application Opens: 16/08/2025
 - Application Deadline: 20/09/2025 (23:59 Anywhere on Earth)
-- Acceptance Notifications: 27/09/2025 (23:59 Anywhere on Earth)
+- Acceptance Notifications: 30/09/2025 (23:59 Anywhere on Earth)
  
 ## Contact Details
 

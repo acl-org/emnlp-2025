@@ -131,6 +131,14 @@ bronze:
     image_path: /assets/images/logos/keensight-logo.png
     alt: Keensight
     title: Keensight
+  - url: https://www.unix-group.ai/
+    image_path: /assets/images/logos/unix-ai-logo.png
+    alt: Unix AI
+    title: Unix Ai
+  - url: https://ksaa.gov.sa/en/
+    image_path: /assets/images/logos/King-Salaman-logo.png
+    alt: King Salman Global Academy for Arabic
+    title: King Salman Global Academy for Arabic
 
 di_ally:
   - url: https://machinelearning.apple.com

@@ -71,6 +71,8 @@ program:
         url: /program/tutorials/
       - title: "Workshops"
         url: /program/workshops/
+      - title: "Industry Track"
+        url: /program/industry/
   - title: Events
     children:
       - title: "Keynotes"
