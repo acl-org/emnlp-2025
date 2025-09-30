@@ -667,8 +667,8 @@ sidebar:
 
 {% include committee-member.html
    name="Leonardo Ranaldi"
-   picture="/assets/images/committee/program_chairs/test.png"
-   institution=""
+   picture="/assets/images/committee/senior_area_chairs/L-Ranaldi.jpg"
+   institution="University of Edinburgh"
 %}
 
 
