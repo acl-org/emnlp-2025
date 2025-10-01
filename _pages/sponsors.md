@@ -83,6 +83,10 @@ gold:
     image_path: /assets/images/logos/ubiquant-logo.png
     alt: Ubiquant
     title: Ubiquant
+  - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
+    image_path: /assets/images/logos/jpmorgan-logo.png
+    alt: JPMorganChase
+    title: JPMorganChase
 
 silver:
   - url: https://research.adobe.com/
@@ -111,10 +115,6 @@ bronze:
     image_path: /assets/images/logos/abaka-logo.png
     alt: Abaka AI
     title: Abaka AI
-  - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
-    image_path: /assets/images/logos/jpmorgan-logo.png
-    alt: JPMorganChase
-    title: JPMorganChase
   - url: https://baobab-trees.com/en/service/llm
     image_path: /assets/images/logos/baobab-logo-new.png
     alt: Baobab
