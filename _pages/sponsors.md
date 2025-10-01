@@ -116,7 +116,7 @@ bronze:
     alt: JPMorganChase
     title: JPMorganChase
   - url: https://baobab-trees.com/en/service/llm
-    image_path: /assets/images/logos/baobab-logo.png
+    image_path: /assets/images/logos/baobab-logo-new.png
     alt: Baobab
     title: Baobab
   - url: https://ai.joshtalks.com/
