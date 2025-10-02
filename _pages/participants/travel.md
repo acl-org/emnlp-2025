@@ -1,7 +1,7 @@
 ---
 title: Travel Information
 layout: single
-excerpt: "EMNLP 2025 Venue"
+excerpt: "EMNLP 2025 Travel Info"
 permalink: /travel/
 sidebar:
   nav: "venue"
