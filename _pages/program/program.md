@@ -12,6 +12,10 @@ toc_icon: "cog"
 
 ## Main Conference Overview
 
+[Click Here](https://docs.google.com/spreadsheets/d/1V7EPtR8xq4kqUaShcGmm3wE-T1Ge730TA36Fkbz7jT8/edit?usp=sharing) for Detailed Program (Please check back for updates)
+
+To authors with an accepted paper, please note if there are any title or author name changes, misspellings, or if you need to change your presentation type from in-person or virtual, or from virtual to in-person, you will need to email EMNLP2025@underline.io
+
 ### Tuesday, November 4, 2025
 
 | Time | Location | Description |
