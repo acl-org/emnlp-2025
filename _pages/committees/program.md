@@ -1025,7 +1025,7 @@ sidebar:
 {% include committee-member.html
    name="Armineh Nourbakhsh"
    picture="/assets/images/committee/senior_area_chairs/Armineh-Nourbakhsh.jpg"
-   institution="Apple"
+   institution="Carnegie Mellon University"
 %}
 
 {% include committee-member.html
