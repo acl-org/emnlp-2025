@@ -39,7 +39,7 @@ W9: Tenth Conference on Machine Translation (WMT25)
 
 W10:BlackboxNLP 2025: Analyzing and Interpreting Neural Networks for NLP
 
-W11: "Eighth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2025) & the 6th Workshop on Computational Approaches to Discourse, Context and Document-Level Inferences (CODI)"
+W11: Joint Sixth Workshop on Computational Approaches to Discourse, Context and Document-Level Inferences (CODI 2025) & Eighth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2025)
 
 W12: The 10th Workshop on Financial Technology and Natural Language Processing (FinNLP - ACL SIGFin)
 
