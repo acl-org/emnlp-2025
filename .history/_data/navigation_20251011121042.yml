@@ -53,6 +53,8 @@ calls:
         url: /calls/industry_track/
       - title: "Workshops"
         url: /calls/workshops/
+      - title: "Call for Birds-of-a-Feather and Affinity Group Events"
+        url: /calls/bof/
       - title: "Volunteers"
         url: /calls/volunteers/
       - title: "Diversity and Inclusion Subsidies"
@@ -69,17 +71,21 @@ program:
         url: /program/tutorials/
       - title: "Workshops"
         url: /program/workshops/
+      - title: "Industry Track"
+        url: /program/industry/
   - title: Events
     children:
       - title: "Keynotes"
         url: /program/keynotes/
+      - title: "Panel"
+        url: /program/panel/
 
 committees:
   - title: Committees
     children:
       - title: "Organizing Committee"
         url: /organization/
-      - title: "Senior Program Committee"
+      - title: "Senior Area Chairs"
         url: /organization/program/
 
 venue:
@@ -91,6 +97,10 @@ venue:
         url: /travel/
       - title: "Visa"
         url: /visa/
+      - title: "Poster Printing"
+        url: /poster-printing/
+      - title: "Underline and Whova"
+        url: /underline-whova/
       - title: "About Suzhou"
         url: /about-suzhou/
 
