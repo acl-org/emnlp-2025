@@ -69,6 +69,10 @@ platinum:
     image_path: /assets/images/logos/sahara-logo.png
     alt: Shara Labs
     title: Shara Labs
+  - url: https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW	
+    image_path: /assets/images/logos/alibabacloud-logo.png
+    alt: Alibaba Cloud 
+    title: Alibaba Cloud
 
 gold:
   - url: https://www.amazon.science/
