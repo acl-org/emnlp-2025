@@ -170,16 +170,6 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    picture="/assets/images/committee/Andreas-Vlachos.jpg"
 %}
 
-<h2>Virtual Infrastructure Chairs</h2>
-{% include committee-member.html
-   name=" Lianhui Qin"
-   institution="UCSD"
-   email="l6qin@ucsd.edu"
-   role="Virtual Infrastructure Chairs"
-   site=""
-   picture="/assets/images/default.jpg"
-%}
-
 <h2>Sponsorship Chairs</h2>
 {% include committee-member.html
    name="Joel Tetreault"
