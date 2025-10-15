@@ -79,9 +79,8 @@ All other international delegates: book through your preferred engine or the hot
 **Distance:**  4.3 km (7min drive, 50-minute walk) from the Suzhou International Expo Center  
 **Address:** 275 Suzhou Ave East Industrial Park,<br>
 Suzhou, China, 215028<br>
-**Rates on Ctrip.com:** 900 CNY single / 1,001 CNY double / 1,385 CNY triple occupancy King/Twins.
 
-Price includes breakfast and service charge.
+Room rates will vary from CNY 900 to CNY 1400, depending on availability and the number of occupants. Price includes breakfast.
 
 [Discounted booking](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=SZVTVHI&groupCode=GEMNA&arrivaldate=2025-11-03&departuredate=2025-11-11&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT), non-refundable, while rooms are available.
 
