@@ -41,7 +41,7 @@ platinum:
     image_path: /assets/images/logos/baidu-logo.png
     alt: Baidu
     title: Baidu
-  - url: 
+  - url: http://careers.airbnb.com/
     image_path: /assets/images/logos/airbnb-logo.png
     alt: Airbnb
     title: Airbnb
