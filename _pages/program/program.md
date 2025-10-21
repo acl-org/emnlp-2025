@@ -112,7 +112,7 @@ To authors with an accepted paper, please note if there are any title or author 
 | **09:00 - 12:30** | A104–A105 | T1: Efficient Inference for Large Language Models – Algorithm, Model, and System | Xuefei Ning, Guohao Dai, Haoli Bai, Lu Hou, Yu Wang, Qun Liu |
 | **09:00 - 12:30** | A106–A107 | T2: Advancing Language Models through Instruction Tuning: Recent Progress and Challenges | Zhihan Zhang, Renze Lou, Fangkai Jiao, Wenpeng Yin, Meng Jiang |
 | **09:00 - 12:30** | A108 | T3: Spoken Conversational Agents with Large Language Models | Chao-Han Huck Yang, Andreas Stolcke, Larry Heck |
-| **09:00 - 17:30** | A102–A103 | T4: NLP+Code: Code Intelligence in Language Models | Zhuo, Qian Liu, Zijian Wang, Wasi U. Ahmad, Binyuan Hui, Loubna Ben Allal |
+| **09:00 - 12:30** | A102–A103 | T4: NLP+Code: Code Intelligence in Language Models | Zhuo, Qian Liu, Zijian Wang, Wasi U. Ahmad, Binyuan Hui, Loubna Ben Allal |
 | **14:00 - 17:30** | A108 | T5: Data and Model Centric Approaches for Expansion of Large Language Models to New languages | Anoop Kunchukuttan, Raj Dabre, Rudra Murthy, Mohammed Safi Ur Rahman Khan, Thanmay Jayakumar |
 | **14:00 - 17:30** | A106–A107 | T6: Neuro-Symbolic Natural Language Processing | André Freitas, Marco Valentino, Danilo Silva de Carvalho |
 | **14:00 - 17:30** | A104–A105 | T7: Continual Learning of Large Language Models | Tongtong Wu, Thuy-Trang Vu, Linhao Luo, Gholamreza Haffari |
