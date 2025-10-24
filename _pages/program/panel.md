@@ -15,7 +15,7 @@ sidebar:
 Large Language Models are a knowledge resource, but not a panacea. This panel brings disciplinary and interdisciplinary voices together to take a reflective look at the best work of this community represented at the 2025 conference and raise challenges to step forward in directions that strengthen our impact both within our community and more universally.
 
 ## Date
-Thursday, November 6th
+Thursday, November 6th, 15:00-16:00, Located in B301
 
 ## Panelists
 
