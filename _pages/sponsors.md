@@ -24,7 +24,7 @@ diamond:
     alt: Tencent
     title: Tencent
   - url: https://miromind.ai/
-    image_path: /assets/images/logos/miromind-ai-logo.png
+    image_path: assets/images/logos/miromind_logo_new.png
     alt: Miromind
     title: Miromind
   - url: https://hpc-ai.com/
