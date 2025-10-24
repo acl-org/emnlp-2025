@@ -33,24 +33,7 @@ Use Whova Event to:
 
 **Delegates in China:**
 
-Android users, Download Whova from the Chinese Android Marketplace or follow the steps below.
-
-- Step 1: Click on the “Android” button above.
-
-![Step 1](/assets/images/whova-download/whova-step1.png)
-
-
-- Step 2: Copy the URL
-
-![Step 2](/assets/images/whova-download/whova-step2.png)
-
-- Step 3: Paste URL to your browser
-
-![Step 3](/assets/images/whova-download/whova-step3.png)
-
-- Step 4: Download the App
-
-![Step 4](/assets/images/whova-download/whova-step4.png)
+Delegates in China: Android users in China can download the app directly using this link [https://whova.com/static/apk/whova.apk](https://whova.com/static/apk/whova.apk).
 
 
 Whova does not currently support dual language options. Attendees will need to select either Chinese or English.
