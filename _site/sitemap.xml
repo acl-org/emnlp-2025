@@ -25,6 +25,9 @@
 <loc>http://0.0.0.0:4000/calls/bof/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/program/bof/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/ethics/committee/</loc>
 </url>
 <url>
@@ -97,10 +100,10 @@
 <loc>http://0.0.0.0:4000/calls/volunteers/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/program/workshops/</loc>
+<loc>http://0.0.0.0:4000/calls/workshops/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/calls/workshops/</loc>
+<loc>http://0.0.0.0:4000/program/workshops/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/assets/Sponsorship%20brochure%20for%20ACL%202025%20conferences.pdf</loc>

@@ -71,12 +71,16 @@ program:
         url: /program/tutorials/
       - title: "Workshops"
         url: /program/workshops/
+      - title: "Industry Track"
+        url: /program/industry/
   - title: Events
     children:
       - title: "Keynotes"
         url: /program/keynotes/
       - title: "Panel"
         url: /program/panel/
+      - title: "Birds of a Feather"
+        url: /program/bof/
 
 committees:
   - title: Committees
@@ -95,6 +99,10 @@ venue:
         url: /travel/
       - title: "Visa"
         url: /visa/
+      - title: "Underline and Whova"
+        url: /underline-whova/
+      - title: "Poster Printing"
+        url: /poster-printing/
       - title: "About Suzhou"
         url: /about-suzhou/
 

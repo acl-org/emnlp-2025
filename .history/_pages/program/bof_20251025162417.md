@@ -1,0 +1,73 @@
+---
+title: Birds of a Feather and Affinity Group Events
+layout: single
+excerpt: "EMNLP 2025 Conference Birds of a Feather and Affinity Group Events Overview"
+permalink: /program/bof/
+toc: true
+toc_sticky: true
+toc_icon: "cog"
+sidebar:
+  nav: program
+---
+
+## Wednesday, November 5, 2025
+
+### Language Model Agents in Industry
+**Time:** 16:00–18:00  
+**Location:** A209  
+**Organizer:** Yuqicheng Zhu
+
+**Description:**  
+Language model agents are rapidly moving from research prototypes to real-world deployments across diverse industrial domains, including customer support, finance, healthcare, manufacturing, and knowledge management. While recent advances in reasoning, planning, and tool use have unlocked new opportunities, many open questions remain about reliability, safety, integration with existing systems, evaluation practices, and long-term maintenance.
+
+This Birds-of-a-Feather session brings together researchers and practitioners to discuss how language model agents are being designed, deployed, and evaluated in industrial settings. Topics include:
+- Success stories and case studies of industrial applications.
+- Key technical challenges such as uncertainty, hallucination, robustness, and scalability.
+- Best practices for aligning agents with business goals and regulatory requirements.
+- Opportunities for collaboration between academia and industry to advance trustworthy and effective agent systems.
+
+The session aims to foster an open exchange of experiences and perspectives, identify shared challenges, and build connections between the research and industry communities working on language model agents.
+
+---
+
+## Thursday, November 6, 2025
+
+### Mechanistic Interpretability for Reliable and Human-Aligned LLMs
+**Time:** 10:30–12:00  
+**Location:** A209  
+**Organizer:** Ercong Nie
+
+**Description:**  
+Mechanistic Interpretability (MechInterp) is advancing from abstract analysis to a practical toolkit for enhancing NLP system reliability. By reverse-engineering model internals—often taking inspiration from human cognitive and neural processes—this field is developing methods to directly address critical application challenges. These include identifying and mitigating hallucinations, steering model behavior for safety, updating knowledge, and improving multilingual capabilities.
+
+This BoF is motivated by this pivotal shift, aiming to unite interdisciplinary researchers who are bridging the gap between fundamental understanding and real-world deployment. This session aims to: (1) showcase and discuss the most promising application-oriented recent MechInterp research, including those presented at EMNLP; (2) foster collaboration between foundational MechInterp researchers and those focused on NLP applications like safety, reasoning, and multilinguality; and (3) explore how insights from human cognition can guide the development of more effective and generalizable interpretation tools. We will facilitate lightning talks and open discussion to identify the most pressing open problems and future directions at this intersection of theory and practice.
+
+### Multilingual and Multimodal LLMs for Everyday Knowledge
+**Time:** 16:30–18:00  
+**Location:** A209  
+**Organizer:** Firoj Alam — [firojalam@gmail.com](mailto:firojalam@gmail.com)
+
+**Description:**  
+Multilingual and multimodal LLMs (text/speech/vision) excel on generic benchmarks, yet struggle on everyday, locally grounded tasks such as asking for directions in dialect, following spoken medical instructions, reading signage in images, or navigating code-switched social conversation. This Birds of a Feather brings together researchers and practitioners to discuss why current models miss background cultural knowledge (social norms, practices) and how retrieval, tool use, and culturally aware grounding can reduce hallucinations and improve reasoning.
+
+We will surface pain points across languages and modalities (dialects, speech disfluencies, low-resource scripts, visual context), examine bias and value drift, and share practical recipes for data collection, evaluation, and deployment in real settings (health, education, public services). The session aims to outline a community roadmap covering shared resources, evaluation suites, and ethical guidelines, and to catalyze collaborations toward robust, culturally aligned models that work for everyday users worldwide.
+
+---
+
+## Friday, November 7, 2025
+
+### Embeddings, Reranker, Small LMs for Better Search
+**Time:** 10:30–12:00  
+**Location:** A209  
+**Organizer:** Han Xiao — [han.xiao@jina.ai](mailto:han.xiao@jina.ai)
+
+**Description:**  
+Embeddings and rerankers are at the heart of modern search, RAG, and deep search systems. In 2025, we're seeing a new wave of embedding and reranker models built on LLMs. With advanced training techniques and high-quality datasets, these models are more powerful than ever. Join us for invited talks exploring these developments, a panel discussion on the future of search, and conversations about multimodal and multilingual search foundation models.
+
+### Arabic NLP
+**Time:** 14:00–15:30  
+**Location:** A209  
+**Organizer:** Go Inoue — [Go.Inoue@mbzuai.ac.ae](mailto:Go.Inoue@mbzuai.ac.ae)
+
+**Description:**  
+This session brings together researchers and practitioners working on Arabic NLP. It provides an opportunity to connect, share ideas, discuss recent advances and challenges, and explore career paths and collaborative initiatives. Everyone currently working on, interested in, or simply wanting to learn more about Arabic NLP is warmly welcome to join.
