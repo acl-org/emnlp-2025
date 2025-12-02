@@ -1,0 +1,71 @@
+---
+title: Awards
+layout: single
+permalink: /program/awards/
+sidebar:
+  nav: "program"
+toc: true
+toc_sticky: true
+---
+
+## Best Paper
+
+* **Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index**  
+  _Hao Xu, Jiacheng Liu, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi_
+
+---
+
+## Outstanding Papers
+
+1. **LingGym: How Far Are LLMs from Thinking Like Field Linguists?**  
+   _Changbing Yang, Franklin Ma, Freda Shi, Jian Zhu_
+
+2. **Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?**  
+   _Hua Shen, Nicholas Clark, Tanu Mitra_
+
+3. **DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**  
+   _Shaoqing Lin, Chong Teng, Fei Li, Donghong Ji, Lizhen Qu, Zhuang Li_
+
+4. **Generative or Discriminative? Revisiting Text Classification in the Era of Transformers**  
+   _Siva Rajesh Kasa, Karan Gupta, Sumegh Roychowdhury, Ashutosh Kumar,  
+   Yaswanth Biruduraju, Santhoh Kumar Kasa, Pattisapu Nikhil Priyatam,  
+   Arindam Bhattacharya, Shailendra Agarwal, Vijay Huddar_
+
+5. **Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps**  
+   _Martin Tutek, Fateme Hashemi Chaleshtori, Ana Marasovic, Yonatan Belinkov_
+
+6. **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**  
+   _Jingyan Shen, Jiarui Yao, Rui Yang, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao_
+
+7. **Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions**  
+   _Sasha Boguraev, Christopher Potts, Kyle Mahowald_
+
+---
+
+## Best Special Theme Paper
+
+* **InterIDEAS: Philosophical Intertextuality via LLMs**  
+  _Yue Yang, Yinzhi Xu, Chenghao Huang, JohnMichael Jurgensen, Han Hu, Hao Wang_
+
+---
+
+## Best Resource Paper
+
+* **Autoformalization in the Wild: Assessing LLMs on Real-World Mathematical Definitions**  
+  _Lan Zhang, Marco Valentino, Andre Freitas_
+
+---
+
+## Social Impact Award
+
+* **AccessEval: Benchmarking Disability Bias in Large Language Models**  
+  _Srikant Panda, Amit Agarwal, Hitesh Laxmichand Patel_
+
+---
+
+## People’s Choice Award
+
+* **Randomly Removing 50% of Dimensions in Text Embeddings has Minimal Impact on Retrieval and Classification Tasks**  
+  _Sotaro Takeshita, Yurina Takeshita, Daniel Ruffinelli, Simone Paolo Ponzetto_ 
+
+---

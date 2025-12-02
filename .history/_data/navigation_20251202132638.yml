@@ -73,24 +73,7 @@ program:
         url: /program/workshops/
       - title: "Industry Track"
         url: /program/industry/
-  - title: Accepted
-    children:
-      - title: "Main Conference Papers"
-        url: /program/main_papers/
-      - title: "Findings Papers"
-        url: /program/find_papers/
-      - title: "System Demonstrations Papers"
-        url: /program/demo_papers/
-      - title: "Industry Track Papers"
-        url: /program/ind_papers/
-      - title: "CL Papers"
-        url: /program/cl_papers/
-      - title: "TACL Papers"
-        url: /program/tacl_papers/
-  - title: Awards
-    children:
-      - title: "Awards"
-        url: /program/awards/
+  
   - title: Events
     children:
       - title: "Keynotes"
